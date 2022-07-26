@@ -57,8 +57,23 @@ ls -al ./myjre
 
 ### Using make
 
+* Normal build
+
 ```shell
 make binary
+```
+
+If size really matters try to pack binary with [upx](https://github.com/upx/upx).
+For version `1.1` binary size reduced by `30.91%`
+
+```shell
+make  small-binary
+```
+
+or
+
+```shell
+make binary upx
 ```
 
 ### Without make
