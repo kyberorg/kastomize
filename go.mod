@@ -19,9 +19,9 @@ require (
 	github.com/rotisserie/eris v0.4.0 // indirect
 	github.com/sanity-io/litter v1.2.0 // indirect
 	github.com/stretchr/testify v1.7.2 // indirect
-	github.com/tidwall/gjson v1.3.2 // indirect
-	github.com/tidwall/match v1.0.1 // indirect
-	github.com/tidwall/pretty v1.0.0 // indirect
+	github.com/tidwall/gjson v1.9.3 // indirect
+	github.com/tidwall/match v1.1.1 // indirect
+	github.com/tidwall/pretty v1.2.0 // indirect
 	golang.org/x/sys v0.0.0-20191026070338-33540a1f6037 // indirect
 	golang.org/x/text v0.3.2 // indirect
 )
